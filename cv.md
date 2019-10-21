@@ -8,7 +8,7 @@
 * E-mail: prinse149@gmail.com
 * Tel: +38(068)3368414
 ## Summary: 
-I want to become an IT specialist and Frontend Developer. Its’s my plan for me future career. My strengths are ability to fast learning, curiosity, interest in IT.
+I want to become an IT specialist and Frontend Developer. It’s my plan for my future career. My strengths are ability to fast learning, curiosity, interest in IT.
 
 ## Skills:
 `HTML` `CSS` `JavaScript` `Visual Studio Code` `WebStorm`
