@@ -1,7 +1,7 @@
 
 # Resume
 * Name: Yurii Ostrovskyi
-* Age: 23
+* Age: 24
 * Beginner Web Developer
 
 ## Contacts:
@@ -28,6 +28,7 @@ I want to become an IT specialist and Frontend Developer. It’s my plan for my 
 </html>
 ```
 ## Experience
+* [HTML/CSS/JS LogosIT Academy](https://lgs.lviv.ua/)
 * [HTML Codeacademy](https://www.codecademy.com/profiles/course9279511174)
 * [HTML html-academy](https://htmlacademy.ru/profile/id606055)
 * [CSS Codeacademy](https://www.codecademy.com/profiles/course9279511174)
