@@ -12,7 +12,7 @@
 I want to become an IT specialist and Frontend Developer. It’s my plan for my future career. My strengths are ability to fast learning, curiosity, interest in IT.
 
 ## Skills:
-`HTML` `CSS` `JavaScript` `Visual Studio Code` `WebStorm`
+`HTML` `CSS` `Visual Studio Code` `WebStorm`
 
 ## Code examples:
 ``` 
@@ -28,7 +28,6 @@ I want to become an IT specialist and Frontend Developer. It’s my plan for my 
 </html>
 ```
 ## Experience
-* [HTML/CSS/JS LogosIT Academy](https://lgs.lviv.ua/)
 * [HTML Codeacademy](https://www.codecademy.com/profiles/course9279511174)
 * [HTML html-academy](https://htmlacademy.ru/profile/id606055)
 * [CSS Codeacademy](https://www.codecademy.com/profiles/course9279511174)
